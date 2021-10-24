@@ -16,7 +16,7 @@ Whereas, while there are far fewer Rural rides, the average fare per ride is hig
 
 Last, Suburban drivers are somewhat in the middle. There are .78 drivers for every ride. So drivers are not oversaturating the demand and competing with each other for riders. They earn a decent fare, unlike Urban, but not as much as Rural. However, with it being Suburban, their rides might not be as long as Rural and the distance to pick-up a rider might be shorter too, causing a lower fare per ride and per driver than Rural.
 
-![](https://github.com/labinskin/PyBer_Analysis/blob/main/Resources/Line%20Plot.png)
+![](https://github.com/labinskin/PyBer_Analysis/blob/main/Resources/Line%20Plot%202.png)
 By looking at the Line Plot, we can see the total fares plotted out. By looking at this, it shows that Urban is fairly consistent at making at least $2000 per day (not every day, there are two dips below), with a couple of swings close to $2500 a day and a couple closer to $2000. Suburban typically hovers around the $1000 a day mark, with only one major sharp increase around the end of February and a small sharp decrease around the beginning of April. Suburban seems more consistent on a day to day basis. Whereas, Rural has two sharp increases at the end of February and end of March/beginning of April. Rural never broke $500 a day (maybe meeting it on April 1). After April 1, there is a decline the rest of the month, with no bounce back.
 
 ##### Summary
